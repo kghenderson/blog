@@ -1,0 +1,11 @@
+# Documentation System
+
+so ... i'm not sure if this helps, but i've been doing quite a lot of documentation writing over the past few weeks and am fairly happy (which is rare in this regard) with the outcome/system: essentially, there's levels 1,2,3,4,5,9 (for [johnny-decimal](https://johnnydecimal.com/) referencing): 1=intro/welcome and is for outsiders/observers, 2=onboard/getting started and corresponds with the 'tutorials' diataxis type, but also for beginner learners, i.e. from the [dreyfus](https://www.kaizenko.com/the-dreyfus-model-of-skills-acquisition/) model, 3=train/how to and is diataxis how-to's for beginners, 4=explain/dive deep with explanatory text and "why's" for intermediates, 5=improve/help us because i think when you're an expert you should be contributing back and working with the community, (then some levels for incubating projects and developers), but then 9=reference and contains quick searchable lookups and cheat-cheets, index/sitemap, glossary, etc.
+
+i do realize this seems way overkill for many, but for me it really helps ... *extremely* helps to know who i'm writing/talking to and that things are said at the right time in the right place ... so this provides a pragmatic (and loose) framework for where things should go, and that it's okay to repeat things and link these topics between sections
+
+i've also been pretty liberal with the use of sidebars, so that the main path of documents can stick with the easy path, but if you want to know more you can go see some better explanation and come back, that way the guides can be fast-paced, but still provide more handholding for very new users
+
+(i'm also using cue with templates to do some document parsing and linking with this as well)
+
+just want to add here, that some might say this is basically diataxis as it is and there's nothing new here (there really isn't), but i personally hadn't really connected that with skill level, like is this a tutorial for an expert? an explanation for a beginner?, my personal categories are around skill level and more loosely around the types, but experts can still whip through tutorials because of the streamlining to sidebars ... so the beginner section can stay beginner and it makes it easier for them to not get overwhelmed as well
